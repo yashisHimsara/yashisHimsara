@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yashis Himsara</h1>
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <h3 align="center">I'm software engineering student from Sri lanka</h3>
 
 - 🌱 I’m currently learning **software engineering**
